@@ -1,0 +1,6 @@
+cliente_id,fecha,producto,estado,importe
+101,2026-01-03,Hipoteca Fija,abierta,250000
+102,2026-01-04,Hipoteca Mixta,cerrada,180000
+102,2026-01-04,Hipoteca Mixta,cerrada,180000
+103,,Reunificación,abierta,120000
+104,2026-01-09,Hipoteca Verde,abierta,-1

@@ -1,0 +1,12 @@
+{
+  "timestamp_utc": "2026-03-30T10:25:33.400252+00:00",
+  "source": "data/incidencias_sample.csv",
+  "target": "/workspace/pruebaCodex/data/incidencias_curadas.csv",
+  "process": "raw_to_curated_csv",
+  "owner": "cto_office",
+  "tags": [
+    "data-quality",
+    "data-governance",
+    "junior-showcase"
+  ]
+}
